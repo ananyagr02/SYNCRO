@@ -1,6 +1,9 @@
 :root {
     --primary-clr: #b868edef;
   }
+  a{
+    text-decoration: none;
+  }
   * {
     margin: 0;
     padding: 0;
