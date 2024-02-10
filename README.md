@@ -2,7 +2,7 @@ Introduction:
 Our proposal aims to develop a web platform tailored for students to set and track their goals in collaboration with their peers. The platform will foster a healthy and friendly competitive environment, motivating students to achieve their goals while engaging with their friends and peers.
 
 Problem Statement:
-Many students struggle with setting and achieving their goals, often lacking accountability and motivation. Additionally, there's a lack of platforms specifically designed to support goal setting and tracking among students in a collaborative manner.
+Many students struggle with setting and achieving their goals, often lacking accountability and motivation. Additionally, there's a lack of platforms specifically designed to support goal setting and tracking among students in a collaborative manner. There are many social media platforms but non of them focuses on both betterment of the user and trying to make the better by pushing them towards their goals and achieving it.
 
 Solution Overview:
 Our solution is to create a web platform that enables students to:
