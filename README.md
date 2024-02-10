@@ -47,3 +47,10 @@ Conclusion:
 Our goal is to create a user-friendly and engaging platform that addresses the needs of students in setting and achieving their goals. By participating in this hackathon, we aim to develop a prototype of the platform and demonstrate its potential to positively impact the lives of students.
 
 Thank you for considering our proposal. We look forward to the opportunity to bring this idea to life and make a meaningful contribution to the hackathon.
+
+FEATURES
+An individual can join different communities based on the goals they want to achieve. the community and their members can interact with each other and keep themselves accountable by keeping check on each other ant try to motivate each other. there would be badges based on the performance of an individual, and can post about the same. there would be a leaderboard of each community keeping track which members has completed how many tasks, this would help to create healthy competition.
+further to minimize distraction we will integrate screen time to keep track of the individual schedule. Furthermore adding a chat section in the community for a short time like for an hour at the end of the day, would minimize the screen time and prevent our product from becoming a distraction.
+further adding a calender in which the days will ger color-coded on the basis of how much work is done. similar like the github calendar.
+Further adding matching criteria, for example an individual is setting goals for a particular topic thus our system would suggest other users with same goals so that if both of them want to sync their goals and keep each other accountable they can. Similarly suggestions of same goal-oriented communities to the individual will also help them.
+leaderboard rank would be determined among those members whose goals match significantly to avoid any miss calculations.
